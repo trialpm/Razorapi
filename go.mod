@@ -1,3 +1,3 @@
-module razorpay
+module rajuapi
 
 go 1.21
