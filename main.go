@@ -39,7 +39,12 @@ const (
 
 var (
     razorpayURLs = []string{
-        "https://pages.razorpay.com/lckuk-international",
+        "https://razorpay.me/@bharatkaaitech",
+        "https://razorpay.me/@specialtechno1119",
+        "https://razorpay.me/@ekalavyas",
+        "https://razorpay.me/@iiecm",
+        "https://razorpay.me/@pathshalainc",
+        "https://razorpay.me/@colorless",
     }
     urlIndex   uint64
     proxyIndex uint64
